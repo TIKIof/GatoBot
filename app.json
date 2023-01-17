@@ -2,9 +2,9 @@
   "name": "TheMystic-Bot-MD",
   "website": "https://github.com/BrunoSobrino",
   "description": "Subscribete a The Shadow Borkers - Bot (≧▽≦)",
-  "repository": "https://github.com/BrunoSobrino/Mystic-termux-2",
-  "logo": "https://raw.githubusercontent.com/BrunoSobrino/Mystic-termux-2/master/src/pictures/heroku-icon.jpg",
-  "success_url": "https://github.com/BrunoSobrino/Mystic-termux-2",
+  "repository": "https://github.com/BrunoSobrino/Mystic-termux",
+  "logo": "https://raw.githubusercontent.com/BrunoSobrino/Mystic-termux/master/src/pictures/heroku-icon.jpg",
+  "success_url": "https://github.com/BrunoSobrino/Mystic-termux",
   "keywords": [
     "nodejs",
     "heroku",
