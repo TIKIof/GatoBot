@@ -5,15 +5,11 @@
 <a href="https://instagram.com/gata_dios?igshid=YmMyMTA2M2Y=" target="blank"><img src="https://img.shields.io/badge/✰ Gata Dios-Colab 1-25D366?style=for-the-badge&logo=instagram&logoColor=pink" />
 <a href="http://wa.me/+5214531173598" target="blank"><img src="https://img.shields.io/badge/Azami- Colab 2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-### `—◉ 💟 GRUPO DE SOPORTE 💟`
 
-<a href="https://chat.whatsapp.com/KGNYdXQd3LYE7y7N0E8mDd" target="blank"><img src="https://img.shields.io/badge/GRUPO_DE_SOPORTE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-> LOS NUMEROS NO SON BOTS Y EN EL GRUPO NO SE PERMITEN NUMEROS-BOTS
 
 ### `—◉ 🤖 BOTS OFICIALES 🤖`
 
-<a href="https://api.whatsapp.com/send/?phone=5219991402134&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL_1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://api.whatsapp.com/send/?phone=5234&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL_1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
  > NO SPAMEAR COMANDOS
 
