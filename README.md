@@ -139,4 +139,4 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ## `EDITOR & PORPIETARIO DEL BOT` 
 <a href="https://github.com/TIKIof"><img src="https://github.com/TIKIof.png" width="250" height="250" alt="TIKIof"/></a>
   
-`TheMystic-Bot-MD - By Bruno Sobrino`
+`GatoBot-MD - By SNT OFC`
