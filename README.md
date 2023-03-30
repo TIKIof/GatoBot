@@ -133,7 +133,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 <div><button id="boton" type="button">Maxxy-Update - By Frezzy</button></div>
 <a href="https://github.com/Frezzy-XD/Maxxy-Update"><img src="https://github.com/Frezzy-XD.png" width="150" height="150" alt="Frezzy"/></a>
 <div><button id="boton" type="button">ConfigBot-update - By AzamiWithLogic</button></div>
-<a href="https://github.com/AzamiWithLogic/ConfigBot-update"><img src="https://github.com/AzamiWithLogic.png" width="150" height="150" alt="Azami"/></a>
+<a href="https://github.com/Azami19/CuriosityBot-MD"><img src="https://github.com/Azami19.png" width="150" height="150" alt="Azami19"/></a>
 
 
 ## `EDITOR & PORPIETARIO DEL BOT` 
