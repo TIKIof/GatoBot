@@ -132,7 +132,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 <a href="https://github.com/adiwajshing/Baileys"><img src="https://github.com/adiwajshing.png" width="150" height="150" alt="adiwajshing"/></a>
 <div><button id="boton" type="button">Maxxy-Update - By Frezzy</button></div>
 <a href="https://github.com/Frezzy-XD/Maxxy-Update"><img src="https://github.com/Frezzy-XD.png" width="150" height="150" alt="Frezzy"/></a>
-<div><button id="boton" type="button">ConfigBot-update - By AzamiWithLogic</button></div>
+<div><button id="boton" type="button">CuriosityBot-MD - By Azami19</button></div>
 <a href="https://github.com/Azami19/CuriosityBot-MD"><img src="https://github.com/Azami19.png" width="150" height="150" alt="Azami19"/></a>
 
 
