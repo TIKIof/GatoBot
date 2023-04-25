@@ -125,15 +125,6 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 <a href="https://github.com/theh2so4"><img src="https://github.com/theh2so4.png" width="100" height="100" alt="theh2so4"/></a>
 <a href="https://github.com/OFC-YOVANI"><img src="https://github.com/OFC-YOVANI.png" width="100" height="100" alt="OFC-YOVANI"/></a>
 
-## `AGRADECIMIENTOS & CREDITOS` 
-<div><button id="boton" type="button">games-wabot-md - By BochilGaming </button></div>
-<a href="https://github.com/BochilGaming/games-wabot-md/tree/multi-device"><img src="https://github.com/BochilGaming.png" width="150" height="150" alt="BochilGaming"/></a>
-<div><button id="boton" type="button">Baileys - By adiwajshing</button></div>
-<a href="https://github.com/adiwajshing/Baileys"><img src="https://github.com/adiwajshing.png" width="150" height="150" alt="adiwajshing"/></a>
-<div><button id="boton" type="button">Maxxy-Update - By Frezzy</button></div>
-<a href="https://github.com/Frezzy-XD/Maxxy-Update"><img src="https://github.com/Frezzy-XD.png" width="150" height="150" alt="Frezzy"/></a>
-<div><button id="boton" type="button">CuriosityBot-MD - By Azami19</button></div>
-<a href="https://github.com/Azami19/CuriosityBot-MD"><img src="https://github.com/Azami19.png" width="150" height="150" alt="Azami19"/></a>
 
 
 ## `EDITOR & PORPIETARIO DEL BOT` 
